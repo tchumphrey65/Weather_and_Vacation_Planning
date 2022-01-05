@@ -34,7 +34,7 @@ The task we have been assigned is to perform three technical analyses.
   - APIs: openWeatherWeather API (https://openweathermap.org/api); Google Maps APIs
 
 
-## Resukts
+## Results
 ### Weather Database
 The following has been created and stored in the Weather_Database folder:
 
@@ -45,7 +45,7 @@ The following has been created and stored in the Weather_Database folder:
   - Created a DataFrame containing the updated weather data and printed to csv file
    https://github.com/tchumphrey65/Weather_and_Vacation_Planning/blob/main/Weather_Database/weatherPy_database.csv
 
-### Weather Database
+### Vacation Search
 The following has been created and stored in the Vacation_Search folder:
 
   - Used input statements to retrieve customer weather preferences.
@@ -57,7 +57,18 @@ The following has been created and stored in the Vacation_Search folder:
 ![Vacation City Maps with Markers](https://user-images.githubusercontent.com/91839403/148290338-fc53dda8-a032-4617-a553-bb4594098e0f.png)
 
 
+### Vacation Itinerary
+The following has been created (Vacation_Itinerary folder):
 
+  - Created travel itinerary using Google Maps API direction layer showing the route between four cities selected from list of possibilibities from Vacation_Search 
+  - Add a pop-up marker using Google Maps API Marker Layer for each selected city in the proposed itinerary
+  - Created map of vacation possible destinations with pop us markers including current weather.
+
+![Vacation_Itinerary](https://user-images.githubusercontent.com/91839403/148291810-eb50d73e-bc02-4999-94db-e56e071324f9.png)
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/91839403/148291849-38421731-104b-41f1-8235-2d4803f2ddf5.png)
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/91839403/148291910-91dbe571-5132-45ed-9609-ed700521633b.png)
 
 
 
