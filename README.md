@@ -43,6 +43,24 @@ The following has been created and stored in the Weather_Database folder:
   - Executed an API call using OpenWeatherMap API
   - Retrieved current weather information including weather description for each city.
   - Created a DataFrame containing the updated weather data and printed to csv file
-   
+   https://github.com/tchumphrey65/Weather_and_Vacation_Planning/blob/main/Weather_Database/weatherPy_database.csv
+
+### Weather Database
+The following has been created and stored in the Vacation_Search folder:
+
+  - Used input statements to retrieve customer weather preferences.
+  - Used input preferences to select matching travel destinations and identify nearby hotels.
+  - Exported a CSV of possible vacation locations meeting inpute weather criteria
+  - Display identified destinations on a Google map using marker layer showing pop-up markers.
+
+
+
+![Vacation City Maps with Markers](https://user-images.githubusercontent.com/91839403/148290338-fc53dda8-a032-4617-a553-bb4594098e0f.png)
+
+
+
+
+
+
 
 
